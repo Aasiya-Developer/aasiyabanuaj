@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Aasiya Banu AJ, a B.Tech Information Technology <br>graduate specialising in Java Spring Boot and React.js <br>full-stack development. I have hands-on experience <br>building REST APIs, designing MySQL databases, and <br>deploying applications on AWS. I am AWS Cloud <br>Practitioner certified and have completed a Java Full <br>Stack course from Greens Technology (May 2026). <br>Currently seeking my first Software Engineer role where <br>I can contribute to scalable backend systems and <br>API-driven product development.
+Aasiya Banu AJ<br>B.Tech Information Technology Graduate<br><br>Specialising in Java Spring Boot and React.js full-stack development. I have hands-on experience building REST APIs, designing MySQL databases, and deploying applications on AWS.<br><br>I am AWS Cloud Practitioner certified and have completed a Java Full Stack course from Greens Technology<br> (May 2026).<br><br>Currently seeking my first Software Engineer role where I can contribute to scalable backend systems and API-driven product development.
 
 
 ## 🌐 Socials:
